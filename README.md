@@ -55,5 +55,3 @@ The goal is to clean, explore, and visualize the dataset to uncover **trends, pa
 
 
 
-ithub.com/your-username/tata-motors-visualization.git
-   cd tata-motors-visualization
